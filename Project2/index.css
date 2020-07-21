@@ -1,3 +1,8 @@
 img, embed, object, video {
   max-width: 100%;
 }
+
+.topHeader{position:relative; width:600px;}
+.title{position:absolute; bottom:0; font-size:24px; font-family:"vedana"; background:rgba(251,251,251,0.5);
+padding:10px 20px; width:100%; text-align:center;}
+.title a{font-size:16px; color:#b92b27;}
