@@ -11,10 +11,13 @@ img, embed, object, video {
   max-width: 100%;
 }
 
+.headerPic{
+    max-height: 500px;
+}
+
 .topHeader{
   position:relative;
   background-color: #3366ff;
-  max-height: 500px;
   padding: 20px;
 }
 
