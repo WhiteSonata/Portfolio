@@ -15,6 +15,7 @@ img, embed, object, video {
   position:relative;
   background-color: #3366ff;
   max-height: 500px;
+  padding: 20px;
 }
 
 .title{
