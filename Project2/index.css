@@ -86,7 +86,7 @@ img, embed, object, video {
 /* Clear floats after the columns */
 .row:after {
   content: "";
-  display: block;
+  display: table;
   clear: both;
 }
 
