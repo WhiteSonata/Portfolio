@@ -12,7 +12,7 @@ img,embed, object, video {
 }
 
 .headerPic{
-    max-height:100%;
+    max-width: 80%;
 }
 
 .topHeader{
